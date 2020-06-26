@@ -19,7 +19,7 @@
                         </div>
                         <div class="form-group">
                             <label class="form-label">Task Description</label>
-                            <textarea class="form-control" rows="3"></textarea>
+                            <textarea class="form-control" rows="2"></textarea>
                         </div>
                         <div class="form-group">
                             <label class="form-label">Sub Task Type</label>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="form-group">
                             <label class="form-label">Sub Task Description</label>
-                            <textarea class="form-control" rows="3"></textarea>
+                            <textarea class="form-control" rows="2"></textarea>
                         </div>
                         <div class="form-group">
                             <label class="form-label">Assigned By</label>
