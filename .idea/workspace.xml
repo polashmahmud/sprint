@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7bf34380-6f05-432d-a1b8-f6b143db7b0d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/dashboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/sprint/sprintTasks.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sprint/sprintTasks.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +170,8 @@
       <workItem from="1592915874781" duration="19375000" />
       <workItem from="1592977038761" duration="335000" />
       <workItem from="1592988581444" duration="463000" />
+      <workItem from="1593147905195" duration="7457000" />
+      <workItem from="1593185259525" duration="296000" />
     </task>
     <servers />
   </component>
